@@ -4,7 +4,7 @@
     branch = master
 [submodule "_gallery"]
 	path = _gallery
-	url = https://github.com/IonianIronist/_gallery
+	url = https://github.com/IonianIronist/_gallery/tree/master
 	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
