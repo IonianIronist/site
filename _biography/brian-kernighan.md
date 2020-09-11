@@ -1,7 +1,7 @@
 --- 
 author: IonianIronist 
 title: "Brian Kernighan" 
-image_url: /images/alan-kay.jpg 
+image_url: /images/brian-kernighan.jpg 
 caption: "O Brian Kernighan είναι συνδημιουργός της γλώσσας AWK, του λειτουργικού συστήματος UNIX, και πολλαπλών βιβλίων προγραμματισμού." 
 categories:
     - Βιογραφία 
