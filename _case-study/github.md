@@ -18,4 +18,4 @@ gallery:
 
 {% include extras/cs-github.md %}
 
-{% include slides.html %}
+{% include gallery %}
